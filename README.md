@@ -13,18 +13,18 @@ https://codesandbox.io/s/hockey-single-player-modules-redux-pqb1yu
 removed networking function
 added arrow controls for p2
 cleaned up code following DRY and SRP principle 
---TODO:
+TODO:
 add time into the game
 integrate requestAnimationFrame
 change scaling to x/sec 
 change scale to size with window
---future
+future
 anti-tunneling tech?
 "future" time traveling lag compensation
 keys = time signature
 mobile controls?
 turn into real hockey
---
+
 
 
 Hockey 0.13.1 
