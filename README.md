@@ -3,7 +3,8 @@ This was supposed to be my hello world.
 
 
 Pong Hockey 1.0
--started 12/Feb/22
+
+started 12/Feb/22
 
 I've made either an overworked pong game or an undercooked engine.
 
@@ -38,6 +39,8 @@ keys = time signature
 mobile controls?
 
 turn into real hockey
+
+
 
 
 
