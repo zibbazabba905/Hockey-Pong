@@ -15,6 +15,7 @@
     "hockey",
     "hello world"
   ],
+  "type": "module",
   "author": "zibbazabba905#3485",
   "license": "ISC"
 }
